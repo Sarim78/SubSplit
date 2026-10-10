@@ -1,6 +1,5 @@
 # subsplit
 
-[![Tests](https://github.com/Sarim78/subsplit/actions/workflows/test.yml/badge.svg)](https://github.com/Sarim78/subsplit/actions/workflows/test.yml)
 [![PyPI](https://img.shields.io/pypi/v/subsplit.svg)](https://pypi.org/project/subsplit/)
 [![Python](https://img.shields.io/pypi/pyversions/subsplit.svg)](https://pypi.org/project/subsplit/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
